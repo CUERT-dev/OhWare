@@ -1,0 +1,18 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "b69589ab-f32d-4d36-bc27-734de31920bb")
+	(paper "A4")
+	(lib_symbols)
+	(text "Use DB9 connector\nUse Suitable Rs485 transiever\n"
+		(exclude_from_sim no)
+		(at 46.228 24.892 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "88d90b13-653b-4270-8696-aa8362ebd46f")
+	)
+)

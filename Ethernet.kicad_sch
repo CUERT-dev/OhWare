@@ -1,0 +1,18 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "8779dfde-5e29-438a-bf55-e0604dbd0691")
+	(paper "A4")
+	(lib_symbols)
+	(text "Add suitable Ethernet PHY\nPut in mind RJ45 with embedded magnetics conector\n"
+		(exclude_from_sim no)
+		(at 60.706 25.908 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "439591d8-bcc7-4dcf-865c-9a94d80967b9")
+	)
+)

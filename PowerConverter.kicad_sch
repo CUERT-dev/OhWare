@@ -1,0 +1,18 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "ae765003-b098-4062-83a2-edfe36020103")
+	(paper "A4")
+	(lib_symbols)
+	(text "Use XL1509 buck converter IC\nConfirm with Moderator Inductor selection\nLDO for 3.3V is tolerable (AMS1117 for now is ok)\nMake the Converter suitable for at least 1A operation , 2A is great\n"
+		(exclude_from_sim no)
+		(at 60.452 22.352 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d02b0ce2-29f9-4775-b5a4-1d2f4f6675eb")
+	)
+)

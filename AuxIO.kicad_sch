@@ -1,0 +1,18 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "85c9e5e3-6494-46c1-a52f-9bc1256b42cf")
+	(paper "A4")
+	(lib_symbols)
+	(text "Leave this for the END yet Ensure that\n\nAt least TIM1 Pins are Here (for motor control usage possibility)\nAt least 6 ADC pins are available\nAt least 2 Dac pins are available\n\nBonus? (TIM8 pins are auxillary too)"
+		(exclude_from_sim no)
+		(at 58.166 29.21 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "53588e1d-18db-4137-b10f-b5dbc7355acf")
+	)
+)

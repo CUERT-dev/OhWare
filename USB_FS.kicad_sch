@@ -1,0 +1,18 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "3ee10ca2-987f-4e4e-b1e0-b179a0ddcb39")
+	(paper "A4")
+	(lib_symbols)
+	(text "Dont Forget routing this as a differential pair\nCheck Standard for USB-TypeC pinout\nDont Connect USB-5V pin to 5V power bus (at all)"
+		(exclude_from_sim no)
+		(at 52.07 23.876 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "bc6405eb-720d-4728-99c0-f5726cd80bb1")
+	)
+)

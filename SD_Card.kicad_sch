@@ -1,0 +1,18 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "2944529f-4c4f-4f3a-9e3c-d70c3dab67b4")
+	(paper "A4")
+	(lib_symbols)
+	(text "Do what is neccessary (and add MicroSd connector at the edge of the board)"
+		(exclude_from_sim no)
+		(at 62.738 25.654 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "70e90e56-144b-4a9f-8582-5a3cde118984")
+	)
+)
