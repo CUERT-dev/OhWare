@@ -1,0 +1,18 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "9ec70117-f870-4659-b210-28ed9d07794d")
+	(paper "A4")
+	(lib_symbols)
+	(text "Add a Can Basic compatible Transiever\nAdd dual RJ45 Connector for Daisy chain topology\nAdd dip switch enabled termination resistors for end of bus termination\n\n"
+		(exclude_from_sim no)
+		(at 55.118 20.574 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b72961ca-e268-4d73-af4b-dcdc47a7437b")
+	)
+)
