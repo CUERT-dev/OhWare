@@ -644,6 +644,26 @@
 	)
 	(wire
 		(pts
+			(xy 199.39 138.43) (xy 199.39 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "106a5f1e-bffa-4e2b-8fe8-ddad71089243")
+	)
+	(wire
+		(pts
+			(xy 182.88 138.43) (xy 182.88 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1345be31-21bc-4abc-8ba7-f3324376b705")
+	)
+	(wire
+		(pts
 			(xy 214.63 80.01) (xy 222.25 80.01)
 		)
 		(stroke
@@ -684,6 +704,26 @@
 	)
 	(wire
 		(pts
+			(xy 175.26 138.43) (xy 175.26 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34f763a2-af79-4f0c-a57d-5e4475660e9a")
+	)
+	(wire
+		(pts
+			(xy 172.72 138.43) (xy 172.72 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "360029f0-2fec-4b37-b7da-27a8b0e03f50")
+	)
+	(wire
+		(pts
 			(xy 214.63 116.84) (xy 222.25 116.84)
 		)
 		(stroke
@@ -714,6 +754,26 @@
 	)
 	(wire
 		(pts
+			(xy 201.93 138.43) (xy 201.93 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6551ef51-c8ef-4332-9a94-fdd22d58a232")
+	)
+	(wire
+		(pts
+			(xy 163.83 138.43) (xy 163.83 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67af1950-384f-4a53-a93f-a9e204288bd0")
+	)
+	(wire
+		(pts
 			(xy 196.85 48.26) (xy 196.85 55.88)
 		)
 		(stroke
@@ -724,7 +784,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 78.74) (xy 60.96 81.28)
+			(xy 48.26 64.77) (xy 48.26 67.31)
 		)
 		(stroke
 			(width 0)
@@ -744,7 +804,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 86.36) (xy 58.42 86.36)
+			(xy 48.26 72.39) (xy 45.72 72.39)
 		)
 		(stroke
 			(width 0)
@@ -771,6 +831,16 @@
 			(type default)
 		)
 		(uuid "9629f6af-ab63-4adf-8648-a3ae93c743ea")
+	)
+	(wire
+		(pts
+			(xy 180.34 138.43) (xy 180.34 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9753abc3-c00c-4619-b8ac-1d1b747cbce7")
 	)
 	(wire
 		(pts
@@ -824,7 +894,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 81.28) (xy 58.42 81.28)
+			(xy 48.26 67.31) (xy 45.72 67.31)
 		)
 		(stroke
 			(width 0)
@@ -864,7 +934,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 83.82) (xy 58.42 83.82)
+			(xy 54.61 69.85) (xy 45.72 69.85)
 		)
 		(stroke
 			(width 0)
@@ -884,7 +954,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 83.82) (xy 67.31 88.9)
+			(xy 54.61 69.85) (xy 54.61 74.93)
 		)
 		(stroke
 			(width 0)
@@ -904,7 +974,17 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 86.36) (xy 60.96 88.9)
+			(xy 166.37 138.43) (xy 166.37 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d47c5daa-c980-4bfc-9793-635055999ac7")
+	)
+	(wire
+		(pts
+			(xy 48.26 72.39) (xy 48.26 74.93)
 		)
 		(stroke
 			(width 0)
@@ -934,7 +1014,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 60.96 78.74 0)
+		(at 48.26 64.77 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -944,7 +1024,7 @@
 		(fields_autoplaced yes)
 		(uuid "293c5fbd-72f3-4798-8a05-a6179ed42423")
 		(property "Reference" "#PWR02"
-			(at 60.96 82.55 0)
+			(at 48.26 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -953,7 +1033,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 60.96 73.66 0)
+			(at 48.26 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -961,7 +1041,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 60.96 78.74 0)
+			(at 48.26 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -970,7 +1050,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 60.96 78.74 0)
+			(at 48.26 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -979,7 +1059,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 60.96 78.74 0)
+			(at 48.26 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1001,7 +1081,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 60.96 88.9 0)
+		(at 48.26 74.93 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1011,7 +1091,7 @@
 		(fields_autoplaced yes)
 		(uuid "77f5b86d-9de1-4ec8-8447-5e1e8dccd10e")
 		(property "Reference" "#PWR03"
-			(at 60.96 95.25 0)
+			(at 48.26 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1020,7 +1100,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 60.96 93.98 0)
+			(at 48.26 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1028,7 +1108,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 60.96 88.9 0)
+			(at 48.26 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1037,7 +1117,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 60.96 88.9 0)
+			(at 48.26 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1046,7 +1126,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 60.96 88.9 0)
+			(at 48.26 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1068,7 +1148,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x03")
-		(at 53.34 83.82 0)
+		(at 40.64 69.85 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1078,7 +1158,7 @@
 		(fields_autoplaced yes)
 		(uuid "96dac4b7-4850-4f3a-babf-331a0900df0b")
 		(property "Reference" "J1"
-			(at 50.8 82.5499 0)
+			(at 38.1 68.5799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1087,7 +1167,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x03"
-			(at 50.8 85.0899 0)
+			(at 38.1 71.1199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1095,8 +1175,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 53.34 83.82 0)
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-5.0-H_1x03_P5.00mm_Horizontal"
+			(at 40.64 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1105,7 +1185,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 53.34 83.82 0)
+			(at 40.64 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1114,7 +1194,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 53.34 83.82 0)
+			(at 40.64 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1142,7 +1222,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 67.31 88.9 0)
+		(at 54.61 74.93 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1152,7 +1232,7 @@
 		(fields_autoplaced yes)
 		(uuid "b1168e19-3d90-4918-bef2-e43c77abbf5d")
 		(property "Reference" "#PWR01"
-			(at 67.31 95.25 0)
+			(at 54.61 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1161,7 +1241,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 67.31 93.98 0)
+			(at 54.61 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1169,7 +1249,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 67.31 88.9 0)
+			(at 54.61 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1178,7 +1258,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 67.31 88.9 0)
+			(at 54.61 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1187,7 +1267,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 67.31 88.9 0)
+			(at 54.61 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1514,8 +1594,8 @@
 		)
 	)
 	(sheet
-		(at 123.19 55.88)
-		(size 91.44 82.55)
+		(at 151.13 55.88)
+		(size 63.5 82.55)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1530,7 +1610,7 @@
 		)
 		(uuid "3373f7d9-a1d2-42db-a119-cf0259ab0da6")
 		(property "Sheetname" "Controller"
-			(at 123.19 55.1684 0)
+			(at 151.13 55.1684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1539,7 +1619,7 @@
 			)
 		)
 		(property "Sheetfile" "Controller.kicad_sch"
-			(at 123.19 139.0146 0)
+			(at 151.13 139.0146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1817,6 +1897,66 @@
 				(justify left)
 			)
 		)
+		(pin "UART6_Rx" input
+			(at 182.88 138.43 270)
+			(uuid "91dd601f-d16f-4240-b52a-b1cf163b955f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "UART6_Tx" input
+			(at 180.34 138.43 270)
+			(uuid "095e7224-00c0-45ea-912a-d960d11c6c2e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "I2C1_SCL" input
+			(at 163.83 138.43 270)
+			(uuid "e9678049-eb11-4f55-9beb-0603ba526f29")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "I2C1_SDA" input
+			(at 166.37 138.43 270)
+			(uuid "90085f4a-8f55-4fff-a6cf-43176b5acd7b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI1_CS1" input
+			(at 199.39 138.43 270)
+			(uuid "c85bef9d-04ba-4246-b28f-d179a4dad67f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI1_CS2" input
+			(at 201.93 138.43 270)
+			(uuid "f84c7e8e-76af-4150-bdf1-afb7f47fa4aa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
 			(project "OhWare"
 				(path "/38f33acd-ac87-4918-9c1f-d78977d10c9f"
@@ -1826,8 +1966,8 @@
 		)
 	)
 	(sheet
-		(at 123.19 142.24)
-		(size 39.37 24.13)
+		(at 120.65 55.88)
+		(size 20.32 82.55)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1841,7 +1981,7 @@
 		)
 		(uuid "49be7343-6876-4872-8ca7-768fcc55fbeb")
 		(property "Sheetname" "AuxIO"
-			(at 123.952 144.526 0)
+			(at 121.412 58.166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1850,7 +1990,7 @@
 			)
 		)
 		(property "Sheetfile" "AuxIO.kicad_sch"
-			(at 123.19 166.9546 0)
+			(at 120.142 65.024 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1929,7 +2069,7 @@
 		)
 	)
 	(sheet
-		(at 78.74 69.85)
+		(at 66.04 55.88)
 		(size 29.21 27.94)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1945,7 +2085,7 @@
 		)
 		(uuid "a420d8e0-054f-4a58-af81-c51e9fa9ba4f")
 		(property "Sheetname" "PowerConverter"
-			(at 78.74 69.1384 0)
+			(at 66.04 55.1684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1954,7 +2094,7 @@
 			)
 		)
 		(property "Sheetfile" "PowerConverter.kicad_sch"
-			(at 78.74 98.3746 0)
+			(at 66.04 84.4046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2033,8 +2173,8 @@
 		)
 	)
 	(sheet
-		(at 170.18 140.97)
-		(size 38.1 24.13)
+		(at 160.02 140.97)
+		(size 44.45 24.13)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -2048,7 +2188,7 @@
 		)
 		(uuid "f251d033-7c4f-4f74-b0e8-105a8a585980")
 		(property "Sheetname" "SPI_I2C_UART_expansion"
-			(at 179.07 163.068 0)
+			(at 168.91 163.068 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2057,7 +2197,7 @@
 			)
 		)
 		(property "Sheetfile" "SPI_expansion.kicad_sch"
-			(at 170.18 165.6846 0)
+			(at 160.02 165.6846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2076,7 +2216,7 @@
 			)
 		)
 		(pin "SPI1_CS1" input
-			(at 196.85 140.97 90)
+			(at 199.39 140.97 90)
 			(uuid "c273b40d-9f30-4164-bcd4-5002d6759c9c")
 			(effects
 				(font
@@ -2086,7 +2226,7 @@
 			)
 		)
 		(pin "SPI1_CS2" input
-			(at 199.39 140.97 90)
+			(at 201.93 140.97 90)
 			(uuid "16ec580a-1e48-4ef3-97dd-a57a02456dba")
 			(effects
 				(font
@@ -2108,6 +2248,66 @@
 		(pin "SPI1_MOSI" input
 			(at 187.96 140.97 90)
 			(uuid "3fb56abb-fd05-4d9f-aeff-c6e73258507d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "UART3_Rx" input
+			(at 175.26 140.97 90)
+			(uuid "30e0e4e9-8d2a-430b-84ab-30aae3cbaad5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "UART3_Tx" input
+			(at 172.72 140.97 90)
+			(uuid "f7c4ae1f-7911-4484-b67e-84a87b11f103")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "UART6_Rx" input
+			(at 182.88 140.97 90)
+			(uuid "c55c65e0-9501-4125-90b2-4e965a88f516")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "UART6_Tx" input
+			(at 180.34 140.97 90)
+			(uuid "0bdad8a3-520a-435c-86d2-5b3013243cb6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "I2C1_SCL" input
+			(at 163.83 140.97 90)
+			(uuid "40dd077b-d1fe-4d6c-a835-9a8a5ad03c30")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "I2C1_SDA" input
+			(at 166.37 140.97 90)
+			(uuid "0d2c93ad-69c0-45a1-891f-c3455d83bf39")
 			(effects
 				(font
 					(size 1.27 1.27)

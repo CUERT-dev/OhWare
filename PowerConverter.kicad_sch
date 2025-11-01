@@ -1986,7 +1986,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LibMain:SOT-223-3_TabPin2_NOSILKSCREEN"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
 			(at 227.33 72.39 0)
 			(effects
 				(font
