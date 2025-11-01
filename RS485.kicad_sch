@@ -2072,7 +2072,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_DIP_SPSTx03_Slide_6.7x9.18mm_W7.62mm_P2.54mm_LowProfile"
 			(at 142.24 96.52 0)
 			(effects
 				(font
@@ -2220,7 +2220,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-5-3.5-H_1x05_P3.50mm_Horizontal"
 			(at 176.53 96.52 0)
 			(effects
 				(font
@@ -2299,7 +2299,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 97.4852 104.14 0)
 			(effects
 				(font
@@ -2360,7 +2360,7 @@
 			)
 		)
 		(property "Value" "120"
-			(at 137.414 107.696 90)
+			(at 137.16 107.442 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2368,7 +2368,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 135.382 109.22 90)
 			(effects
 				(font

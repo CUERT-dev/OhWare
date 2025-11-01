@@ -2276,7 +2276,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_RJ:RJ45_Ninigi_GE"
 			(at 218.44 79.375 90)
 			(effects
 				(font
@@ -2594,7 +2594,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 165.862 85.09 90)
 			(effects
 				(font
@@ -2663,7 +2663,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 77.1652 85.09 0)
 			(effects
 				(font
@@ -2927,7 +2927,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_RJ:RJ45_Ninigi_GE"
 			(at 218.44 113.665 90)
 			(effects
 				(font
@@ -3064,7 +3064,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c8f37aa5-8d55-4864-9d4b-373866e7c937")
 		(property "Reference" "SW2"
 			(at 171.45 72.3899 90)
@@ -3084,8 +3083,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 167.64 73.66 0)
+		(property "Footprint" "Button_Switch_THT:SW_DIP_SPSTx01_Slide_6.7x4.1mm_W7.62mm_P2.54mm_LowProfile"
+			(at 154.94 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3154,7 +3153,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 140.462 78.74 90)
 			(effects
 				(font
